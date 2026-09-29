@@ -32,5 +32,5 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khalidredoy&theme=tokyonight&hide_border=true" alt="khalidredoy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidredoy&theme=dark&background=00000000&hide_border=true" alt="khalidredoy" />
 </p>
