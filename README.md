@@ -31,11 +31,44 @@
 
 
 
-## 📈 Current Stats
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <i>Consistency beats intensity — keep building, keep learning.</i>
+</p>
+
+<br>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=khalidredoy&theme=dark&background=00000000&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&sideLabels=00FFFF&currStreakNum=FF00FF&sideNums=00FFFF&dates=FFFFFF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=khalidredoy&theme=dark&background=0D1117&hide_border=true&border_radius=12&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+    width="90%"
     alt="GitHub Streak Stats"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khalidredoy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidredoy&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF"
+    width="41%"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khalidredoy&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
