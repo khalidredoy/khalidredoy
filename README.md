@@ -31,4 +31,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidredoy&" alt="khalidredoy" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khalidredoy&theme=tokyonight&hide_border=true" alt="khalidredoy" />
+</p>
