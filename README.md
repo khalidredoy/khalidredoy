@@ -1,14 +1,8 @@
-<h1 align="center">😎 Hey! Nice to see you.</h1>
+<h1 align="center">😎 Hey! Nice to see you here.</h1>
 <h3 align="center">I'm Khalid, passionate Fullstack developer from Bangladesh.</h3>
-
-- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khalidredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidredoy" height="30" width="40" /></a>
-<a href="https://fb.com/khalidredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalidredoy" height="30" width="40" /></a>
-<a href="https://instagram.com/khalidredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalidredoy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khalidredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khalidredoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
