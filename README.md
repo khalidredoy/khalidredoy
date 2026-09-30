@@ -3,6 +3,18 @@
 ### I'm Khalid, a passionate Fullstack Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications. I enjoy learning new technologies and solving real-world problems.
 
 
+const khalid = {
+  name: "Akhter Khalid Hassan",
+  username: "khalidredoy",
+  pronouns: "he/him",
+  location: "Bangladesh 🇧🇩",
+  role: "Aspiring Full-Stack Web Developer",
+  currentlyLearning: ["Node.js", "Express.js", "MongoDB"],
+  focus: ["Modern UI", "Scalable Apps", "Clean Code"],
+  funFact: "I solve problems first, then I drink tea ☕",
+};
+
+
 ## 💻 Tech Stack
 
 ### Frontend
