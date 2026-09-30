@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey! Nice to see you here.
+# # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="35" height="35"> Hey! Nice to see you here. Hey! Nice to see you here.
 
 ### I'm Khalid, a passionate Fullstack Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications. I enjoy learning new technologies and solving real-world problems.
 
