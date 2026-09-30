@@ -1,8 +1,6 @@
-<h1 align="center">😎 Hey! Nice to see you here.</h1>
+# 😎 Hey! Nice to see you here.
 
-<h3 align="center">I'm Khalid, a passionate Fullstack Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications. I enjoy learning new technologies and solving real-world problems.</h3>
-
-
+### I'm Khalid, a passionate Fullstack Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications. I enjoy learning new technologies and solving real-world problems.
 
 
 ## 💻 Tech Stack
